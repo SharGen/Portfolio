@@ -1,1 +1,0 @@
-Saransh Sinha's portfolio
