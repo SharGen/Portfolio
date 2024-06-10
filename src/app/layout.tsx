@@ -24,11 +24,11 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <SpeedInsights />
         <Providers>
           <ThemeSwitch />
           <Sidebar />
           {children}
+          <SpeedInsights />
         </Providers>
       </body>
     </html>
