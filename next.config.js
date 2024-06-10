@@ -4,5 +4,3 @@ const nextConfig = {
 };
 
 module.exports = nextConfig;
-
-import { SpeedInsights } from "@vercel/speed-insights/next"
