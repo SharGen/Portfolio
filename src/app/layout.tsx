@@ -36,3 +36,6 @@ export default function RootLayout({
     </html>
   );
 }
+
+
+// https://beta.nextjs.org/docs/api-reference
